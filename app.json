@@ -32,6 +32,12 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "RoadSense AI uses your location to show your position on the map and attach coordinates to road-hazard reports."
+        }
       ]
     ],
     "experiments": {
